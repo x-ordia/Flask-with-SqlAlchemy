@@ -1,5 +1,5 @@
 # Flask-with-SqlAlchemy
-A basic blogging website
+A basic blogging website <br>
 Make sure you create a new virtual environment or use an existing conda environment with Flask, Flask_WTF and SQL_Alchemy installed. 
 
 Procedure for running locally :
