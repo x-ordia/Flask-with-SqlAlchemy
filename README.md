@@ -5,10 +5,10 @@ Make sure you create a new virtual environment or use an existing conda environm
 Procedure for running locally :
 * For setting environment variables, run the Following commands: <br>
   For Windows : <br>
-    1 - $env:FLASK_APP = "<filename>.py" <br>
+    1 - $env:FLASK_APP = "filename.py" <br>
     2 - $env:FLASK_ENV = "development" <br>
   For Linux : <br>
-    1 - export FLASK_APP = <filename> <br>
+    1 - export FLASK_APP = filename <br>
     2 - export FLASK_ENV = development <br>
   
 * To run server : <br>
